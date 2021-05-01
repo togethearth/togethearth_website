@@ -13,17 +13,12 @@
 <section>
 	<h1>
 		<div class="welcome">
-			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp">
-				<img src="svelte-welcome.png" alt="Welcome"/>
-			</picture>
+Welcome to Togethearth!
 		</div>
-
-		to your new<br />SvelteKit app
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+Leave us a message after the bip.
 	</h2>
 
 	<Counter />
